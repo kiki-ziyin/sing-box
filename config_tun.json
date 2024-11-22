@@ -74,9 +74,9 @@
     {
       "tag": "{all}", 
       "type": "协议类型",
-      "server": "18.183.238.248",
+      "server": "IP地址",
       "server_port": 42114,
-      "uuid": "daee1254-8e5b-4f41-d0a4-b3979803cc72",
+      "uuid": "xxxxxx",
       "packet_encoding": "xudp",
       "flow": "xtls-rprx-vision",
       "tls": {
